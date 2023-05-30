@@ -5,7 +5,7 @@
     max-height: 250vh;
 }
 #header{
-    background-image:url(images/header\(darken\).png);
+    background-image:url("../images/header\(darken\).png");
     background-position: center;
     background:cover;
     height: 100vh;
@@ -64,7 +64,7 @@ nav h1{
 
 }
 #books{
-    background-image: url("images/books\(darken\).png");
+    background-image: url("../images/books\(darken\).png");
     background-size: cover;
     background-position: center;
     background:cover;
